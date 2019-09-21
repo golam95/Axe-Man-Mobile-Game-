@@ -1,0 +1,1 @@
+For server connection i have used localhost XAMPP..
